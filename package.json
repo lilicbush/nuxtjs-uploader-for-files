@@ -1,0 +1,33 @@
+{
+  "name": "nuxtjs-uploader-for-files",
+  "version": "1.1.1",
+  "description": "Just file uploader for nuxtjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilicbush/nuxtjs-uploader-for-files.git"
+  },
+  "keywords": [
+    "file-upload",
+    "file",
+    "nuxtjs",
+    "upload",
+    "uploader",
+    "vue"
+  ],
+  "author": "Alexander Bashirovich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lilicbush/nuxtjs-uploader-for-files/issues"
+  },
+  "homepage": "https://github.com/lilicbush/nuxtjs-uploader-for-files.git",
+  "dependencies": {
+    "vue-resource": "^1.3.4"
+  },
+  "peerDependencies": {
+    "vue": "^2.2.4"
+  }
+}
